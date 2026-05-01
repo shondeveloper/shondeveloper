@@ -1,6 +1,6 @@
-# Software Engineer in progress with a focus on Artificial Intelligence.  
+# <img align="right" src="./assets/gatito-saludando.jpeg" width="190" alt="Gatito saludando" /> Software Engineer in progress with a focus on Artificial Intelligence.
 
-# 💫 About Me: <img align="right" src="./assets/gatito-saludando.jpeg" width="100" alt="Gatito saludando" />
+# 💫 About Me: 
 🔭 I’m currently working on Full Stack web apps, Android projects, and AI-powered tools.<br>👯 I’m looking to collaborate on AI, automation, SaaS, and open-source projects.<br>🤝 I’m looking for help with cloud deployment, scalable backend architecture, and production-ready AI integrations.<br>🌱 I’m currently learning React, Node.js, Kotlin, Python, databases, and LLM agents.<br>💬 Ask me about Full Stack Development, Android, REST APIs, AI workflows, and automation.<br>⚡ Fun fact: I like turning ideas into useful, efficient, and scalable digital products. 
 
 
